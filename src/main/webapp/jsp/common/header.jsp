@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜 again test
+                    家常菜 again test 1
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
